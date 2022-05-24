@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "3azUjO7jb8n2HkC7nYGlJ9H1HWLw9v1Z8sTAK2jOcPbVesPjs3/n3Bk+lFEJu5Kim5gOeuIs2evk8ooBEJ4UwQ==",
+  "success": true,
+  "projectFilePath": "E:\\EEE3111\\ShopSales\\ShopSales\\ShopSales\\ShopSales.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z.DESKTOP-6U8A0OA\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Z.DESKTOP-6U8A0OA\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Z.DESKTOP-6U8A0OA\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Z.DESKTOP-6U8A0OA\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "C:\\Users\\Z.DESKTOP-6U8A0OA\\.nuget\\packages\\system.data.oledb\\5.0.0\\system.data.oledb.5.0.0.nupkg.sha512",
+    "C:\\Users\\Z.DESKTOP-6U8A0OA\\.nuget\\packages\\system.diagnostics.performancecounter\\5.0.0\\system.diagnostics.performancecounter.5.0.0.nupkg.sha512",
+    "C:\\Users\\Z.DESKTOP-6U8A0OA\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Z.DESKTOP-6U8A0OA\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Z.DESKTOP-6U8A0OA\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+    "C:\\Users\\Z.DESKTOP-6U8A0OA\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Z.DESKTOP-6U8A0OA\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Z.DESKTOP-6U8A0OA\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "ShopSales depends on System.Data.OleDb (>= 4.8.3) but System.Data.OleDb 4.8.3 was not found. An approximate best match of System.Data.OleDb 5.0.0 was resolved.",
+      "libraryId": "System.Data.OleDb",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}
